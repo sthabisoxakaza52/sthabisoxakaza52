@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m an aspiring **Cloud Engineer** and **Computer Science student** passionate about building scalable systems, automating infrastructure, and continuously learning across software and cloud technologies.
+I’m an aspiring **Cloud Engineer** and **Computer Science student** passionate about building scalable systems, automating infrastructure and continuously learning across software and cloud technologies.
 
 ---
 
@@ -41,7 +41,7 @@ I’m an aspiring **Cloud Engineer** and **Computer Science student** passionate
 
 ## 📂 Current Projects
 
-- 🔔 AWS Cost Alert System (in progress)
+- 🔔 AWS Cost Alert System 
 - 📊 Personal Dashboard (frontend + backend practice)
 - 🧪 HackerRank problem-solving practice
 - ☁️ Cloud deployment experiments using AWS + Terraform
